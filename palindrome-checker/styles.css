@@ -104,7 +104,11 @@ input[type="text"] {
   }
   form,
   .description {
-    max-width: 60%; /* Adjust the width for smaller screens */
+    display: inline-block;
+    max-width: 50%;
+  }
+  .description img {
+    margin: 5px auto;
   }
 }
 
@@ -132,6 +136,13 @@ input[type="text"] {
   }
   .description img {
     margin: 10px auto;
+  }
+  input[type="text"] {
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 100%;
+    margin: 20px 0;
   }
 }
 
