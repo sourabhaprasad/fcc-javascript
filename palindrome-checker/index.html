@@ -8,10 +8,37 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="styles.css" />
-    <link rel="shortcut icon" href="check-mark.png" />
+    <link rel="shortcut icon" href="images/check-mark.png" />
     <title>Palindrome Checker</title>
   </head>
+
   <body>
+    <h3>
+      <a
+        href="https://github.com/sourabhaprasad"
+        target="_blank"
+        rel="noopener noreferrer"
+        >Sourabha Prasad</a
+      >
+    </h3>
+    <h1 id="title">Is it a palindrome?</h1>
+    <form>
+      <label for="text-input">Enter a text, a phrase or a number: </label>
+      <input type="text" id="text-input" />
+      <button id="check-btn">Check</button>
+      <div id="result"></div>
+    </form>
+    <section class="description">
+      <h3>What is a palindrome?</h3>
+      <img src="images/lightbulb.png" alt="hint" width="50" />
+      <p>
+        <span
+          ><em><strong>Palindrome</strong></em> </span
+        >is a word or a sentence that's spelled the same way both forward and
+        backward, ignoring punctuation, case, and spacing. <br />Eg. civic,
+        radar, level.
+      </p>
+    </section>
     <script src="script.js"></script>
   </body>
 </html>
