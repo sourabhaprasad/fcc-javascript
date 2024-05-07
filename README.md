@@ -1,6 +1,6 @@
 # JavaScript Algorithms and Data Structures (Beta)
 
-All the projects were created as part of my journey in the learning of JavaScript and implementing hands-on skills in primarily JavaScript along with HTML and CSS.
+All the projects were created as part of my journey in learning JavaScript and implementing hands-on skills in primarily JavaScript along with HTML and CSS.
 
 
 # Projects 
