@@ -4,7 +4,9 @@ All the projects were created as part of my journey in learning JavaScript and i
 
 # Projects
 
-I embarked on the JavaScript Algorithm and Data Structures Certification to master fundamental JavaScript concepts like variables, arrays, and functions, while also delving into advanced topics such as Object Oriented and Functional Programming. I developed problem-solving skills through algorithmic thinking and learned practical techniques like working with local storage and fetching data from APIs. This certification equipped me with a robust skill set essential for building dynamic and responsive web applications.
+This curriculum helped me master fundamental JavaScript concepts like variables, arrays, and functions, while also delving into advanced topics such as Object Oriented and Functional Programming.
+I developed problem-solving skills through algorithmic thinking and learned practical techniques like working with local storage and fetching data from APIs.
+This certification equipped me with a robust skill set essential for building dynamic and responsive web applications.
 
 Detailed information about each project can be explored through the provided links below.
 
