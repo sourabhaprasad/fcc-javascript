@@ -1,3 +1,5 @@
+
+
 # JavaScript Algorithms and Data Structures (Beta)
 
 All the projects were created as part of my journey in learning JavaScript and implementing hands-on skills in primarily JavaScript along with HTML and CSS.
@@ -9,10 +11,9 @@ I embarked on the JavaScript Algorithm and Data Structures Certification to mast
 
 Detailed information about each project can be explored through the provided links below.
 
-* Palindrome Checker: [Link](https://codepen.io/souri-droid/full/BaMMXam) 
+* Palindrome Checker: [Link](https://sourabhaprasad.github.io/fcc-javascript/palindrome-checker/) 
 * Roman Numeral Converter: [Link](https://codepen.io/souri-droid/full/gOqqVPx) 
 * Telephone Numeral Converter: [Link](https://codepen.io/souri-droid/full/vYbboGx) 
-* Product Landing Page: [Link](https://sourabhaprasad.github.io/responsive-web-desigb-fcc/4.%20Product%20Landing%20Page/)
 * Cash Register: [Link](https://sourabhaprasad.github.io/responsive-web-desigb-fcc/5.%20Portfolio%20Page/)
 * Pokémon Search App: [Link](https://sourabhaprasad.github.io/responsive-web-desigb-fcc/5.%20Portfolio%20Page/)
 
