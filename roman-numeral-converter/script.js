@@ -10,7 +10,7 @@ numButton.addEventListener("click", (event) => {
 
   if (isNaN(inputNumber)) {
     output.innerHTML = "<p>Please enter a valid number</p>";
-  } else if (inputNumber < 0) {
+  } else if (inputNumber <= 0) {
     output.innerHTML =
       "<p>Please enter a number greater than or equal to 1</p>";
   } else if (inputNumber >= 4000) {
