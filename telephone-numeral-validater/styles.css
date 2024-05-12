@@ -46,6 +46,11 @@ a:hover {
   text-shadow: none;
 }
 
+#results {
+  font-weight: bold;
+  text-shadow: 1px 1px 2px black;
+}
+
 h1 {
   font-size: 40px;
 }
@@ -88,7 +93,7 @@ input[type="text"] {
     margin: auto;
   }
   body {
-    background-size: contain;
+    background-size: cover;
     width: 768px;
     height: 1024px;
   }
@@ -99,13 +104,9 @@ input[type="text"] {
     margin: 40px;
     font-size: 25px;
   }
-  form,
-  .description {
+  form {
     display: inline-block;
     max-width: 50%;
-  }
-  .description img {
-    margin: 5px auto;
   }
 }
 
@@ -149,22 +150,23 @@ input[type="text"] {
   }
   body {
     background-size: cover;
-    background-position: center;
+    width: 415px;
+    background-repeat: no-repeat;
   }
   h3 {
-    margin: 80px 0 0 2px;
+    padding: 50px 0 0 2px;
   }
   h1 {
-    margin: 40px;
+    margin: 80px;
     font-size: 25px;
   }
   button {
     margin: 4px;
   }
-  form,
-  .description {
+  form {
     display: inline-block;
-    max-width: 70%;
+    margin-top: 50px;
+    max-width: 80%;
   }
   input[type="text"] {
     background-color: transparent;
