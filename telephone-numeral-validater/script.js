@@ -21,10 +21,10 @@ checkBtn.addEventListener("click", (event) => {
   } else {
     const result = regex.test(userInput.value);
     if (result) {
-      p.innerHTML = `Valid US number: ${userInput.value}`;
+      p.innerHTML += `Valid US number: ${userInput.value}<br>`;
       p.style.color = "green";
     } else {
-      p.innerHTML = `Invalid US number: ${userInput.value}`;
+      p.innerHTML += `Invalid US number: ${userInput.value}<br>`;
       p.style.color = "red";
     }
   }
